@@ -1,0 +1,78 @@
+{
+  "data": {
+    "workout": {
+      "title": "Cardio Exercise",
+      "trainer": "Matt",
+      "duration": "30 min",
+      "category": "home",
+      "target": "KCAL"
+    },
+    "latest_blogs": [
+      {
+        "title": "Healthylifestyle",
+        "image": "http://stage.api.changingshape.com/images/workout/undraw_healthy_habit_bh5w_m.svg",
+        "description": "Healthy Lifestyle: Steps to a Longer Life, Diet and Exercise Tips",
+        "url": "https://www.changingshape.com/healthylifestyle"
+      },
+      {
+        "title": "Fitnesstips",
+        "image": "http://stage.api.changingshape.com/images/workout/undraw_healthy_habit_bh5w_m.svg",
+        "description": "Fitness Tips: Easy Steps to Reach Your Fit Goals, Beginner to Expert Tricks",
+        "url": "https://www.changingshape.com/fitnesstips"
+      },
+      {
+        "title": "Heartrated",
+        "image": "http://stage.api.changingshape.com/images/workout/undraw_healthy_habit_bh5w_m.svg",
+        "description": "Target Heart Rate Definition: Understanding How to Measure for Exercise and Maximum Heart Rate",
+        "url": "https://www.changingshape.com/heartrated"
+      }
+    ],
+    "recommended_categories": [
+      {
+        "title": "Home",
+        "image": "http://stage.api.changingshape.com/images/workout/009_weight_m.svg",
+        "slug": "",
+        "sub_categories": [
+          {
+            "title": "DUMBBELLS",
+            "sub_category_id": 52
+          },
+          {
+            "title": "FREE WEIGHTS",
+            "sub_category_id": 53
+          },
+          {
+            "title": "NO EQUIPMENT",
+            "sub_category_id": 54
+          },
+          {
+            "title": "BANDS",
+            "sub_category_id": 55
+          }
+        ]
+      },
+      {
+        "title": "Gym",
+        "image": "http://stage.api.changingshape.com/images/workout/019_squat_racks_m.svg",
+        "slug": "",
+        "sub_categories": [
+          {
+            "title": "DEFAULT",
+            "sub_category_id": 51
+          }
+        ]
+      },
+      {
+        "title": "Cardio",
+        "image": "http://stage.api.changingshape.com/images/workout/017_heart_rate_m.svg",
+        "slug": "",
+        "sub_categories": [
+          {
+            "title": "DEFAULT",
+            "sub_category_id": 38
+          }
+        ]
+      }
+    ]
+  }
+}
